@@ -1,0 +1,17 @@
+table {
+    border : 1px solid black;
+}
+
+table td {
+    text-align: center;
+    width : 18px;
+    height : 18px;
+}
+
+.rightBorder {
+    border-right : 2px solid black;
+}
+
+tr.bottomBorder td {
+    border-bottom : 2px solid black;
+}

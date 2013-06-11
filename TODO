@@ -1,0 +1,8 @@
+generator inputów
+generator rozwiązania z inputów: tworzenie dodatkowego markupu
+generator sudoku - generuje + usuwa x losowych pól z planszy
+dodanie rekurencji albo sprawdzania dodatkowych możliwości
+statystyki: ilość operacji, ilość nawrotów, czas
+testy + wizualizacja: wygenerowany + do rozwiązania + rozwiązany + (pod spodem) statystyki OK/FAIL
+
+na końcu ładny CSS
